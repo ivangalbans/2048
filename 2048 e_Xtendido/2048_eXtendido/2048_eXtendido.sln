@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048_eXtendido", "2048_eXtendido\2048_eXtendido.csproj", "{1EC0A697-81C8-42F1-A769-B23079565AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_2048", "..\Game_2048\Game_2048\Game_2048.csproj", "{936AC1BB-EE59-4484-BDA7-3B3F06948C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC0A697-81C8-42F1-A769-B23079565AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC0A697-81C8-42F1-A769-B23079565AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC0A697-81C8-42F1-A769-B23079565AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC0A697-81C8-42F1-A769-B23079565AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936AC1BB-EE59-4484-BDA7-3B3F06948C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936AC1BB-EE59-4484-BDA7-3B3F06948C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936AC1BB-EE59-4484-BDA7-3B3F06948C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936AC1BB-EE59-4484-BDA7-3B3F06948C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
