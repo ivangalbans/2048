@@ -29,6 +29,4 @@ Autor
 
 Iván Galbán Smith <ivan.galban.smith@gmail.com>
 
-Estudiante de 1er Curso de Ciencia de la Computación
-
-Universidad de La Habana, 2014
+Estudiante de 1er Curso de Ciencia de la Computación, Universidad de La Habana
